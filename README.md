@@ -6,4 +6,4 @@
 
 效果图：
 
-![image](https://github.com/KaLongChan/SingRate/blob/master/imgs/S81128-115004.jpg)
+![image](https://image.jagger.now.sh/phone.jpg)
